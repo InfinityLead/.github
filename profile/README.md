@@ -8,7 +8,29 @@ In InfinityLead, we develop and maintain multiple projects with the help of a pa
 
 ### 🔐 First Project: **Password Manager**
 
-Our first project is a **Password Manager**. This project aims to build a secure and user-friendly solution for password management, protecting users' privacy and simplifying their digital lives. 🛡️
+# Unity Game - First Project 🎮
+
+## 🚀 Overview
+
+Welcome to the first project of InfinityLead! We are developing an exciting **game** using **Unity** and **C#**. The goal is to create an engaging and fun experience for players, with immersive gameplay and simple mechanics.
+
+## 🎮 Project Description
+
+This game will be built with **Unity** and **C#**. We aim to deliver a user-friendly and enjoyable experience with a focus on gameplay and interaction.
+
+## 🛠️ Technologies Used
+
+- **Unity**: Game engine used for development.
+- **C#**: Programming language for game logic.
+
+## 🤝 Contributing
+
+Feel free to contribute by:
+- Forking the repo and submitting pull requests.
+- Reporting bugs or suggesting improvements.
+- Participating in discussions!
+
+Our second project is a **Password Manager**. This project aims to build a secure and user-friendly solution for password management, protecting users' privacy and simplifying their digital lives. 🛡️
 
 ---
 
